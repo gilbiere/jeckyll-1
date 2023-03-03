@@ -1,0 +1,17 @@
+<nav class="navbar has-background-grey-light">
+<div class="navbar-menu">
+    <div class="navbar-start">
+        <div class="navbar-item">
+            <a class="has-text-black is-size-4 has-text-weight-bold is-italic" href="{{ site.url }}">{{ site.title }}</a>
+        </div>
+    </div>
+
+    <div class="navbar-end">
+        <div class="navbar-item">
+            {% for item in site.data.menu-top %}
+                <ul> <a class="has-text-black m-4" href="{{ item.link }}">{{ item.title }}</a></ul>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+</nav>
