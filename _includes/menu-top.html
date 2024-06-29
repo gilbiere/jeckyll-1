@@ -9,7 +9,7 @@
     <div class="navbar-end">
         <div class="navbar-item">
             {% for item in site.data.menu-top %}
-                <ul> <a class="has-text-black m-4" href="{{ item.link }}">{{ item.title }}</a></ul>
+                <ul> <a class="has-text-black m-4" href="{{ site.url }} {{ item.link }}">{{ item.title }}</a></ul>
             {% endfor %}
         </div>
     </div>
