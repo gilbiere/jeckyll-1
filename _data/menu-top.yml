@@ -1,5 +1,5 @@
-- title: Accueil
-  link: <i class="fa-solid fa-house"></i>
+- title: <i class="fa-solid fa-house"></i>
+  link: /
 
 - title: A propos
   link: /apropos/
