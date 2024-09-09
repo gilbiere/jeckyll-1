@@ -3,4 +3,4 @@ layout: home
 title: Accueil
 ---
 
-# Ceci est la page index.md.
+Ceci est la page index.md.
