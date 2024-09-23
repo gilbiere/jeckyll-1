@@ -1,8 +1,13 @@
 - title: Accueil
   link: /
 
+- title: Blog
+  link: /blog/
+  
 - title: A propos
   link: /apropos/
 
 - title: Contact
   link: /contact/
+
+
