@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-01-11 06:58:22 -0500
-categories: jekyll update
+title: "Welcome to Jekyll!"
 ---
 
 ### C'est mon premier article ###
