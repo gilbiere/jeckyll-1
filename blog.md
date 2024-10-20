@@ -1,8 +1,9 @@
 ---
-layout:  post
-title:   "Bloque"
-permalink:  /blogue/
+layout: post
+title: "Bloque"
+permalink: /blogue/
 ---
+
 ### Voici la page du blog
 <hr>
     <section class="container"></section>
